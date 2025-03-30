@@ -1,3 +1,4 @@
+```
 # Smart Document Q&A System
 
 ## Project Overview
@@ -24,52 +25,55 @@ To run the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/Smart-Document-QA-System.git
-Navigate to the project directory:
+   ```
 
-bash
-Copy
-Edit
-cd Smart-Document-QA-System
-Install the required Python packages:
+2. **Navigate to the project directory:**
 
-Create a virtual environment (optional but recommended):
+   ```bash
+   cd Smart-Document-QA-System
+   ```
 
-bash
-Copy
-Edit
-python -m venv venv
-Activate the virtual environment:
+3. **Install the required Python packages:**
 
-Windows:
+   Create a virtual environment (optional but recommended):
 
-bash
-Copy
-Edit
-venv\Scripts\activate
-Mac/Linux:
+   ```bash
+   python -m venv venv
+   ```
 
-bash
-Copy
-Edit
-source venv/bin/activate
-Install the dependencies:
+   Activate the virtual environment:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Flask server:
+   - **Windows:**
 
-bash
-Copy
-Edit
-python app.py
-The system will run on http://127.0.0.1:5000/.
+     ```bash
+     venv\Scripts\activate
+     ```
 
-File Structure
-php
-Copy
-Edit
+   - **Mac/Linux:**
+
+     ```bash
+     source venv/bin/activate
+     ```
+
+   Install the dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Run the Flask server:**
+
+   ```bash
+   python app.py
+   ```
+
+   The system will run on `http://127.0.0.1:5000/`.
+
+---
+
+## File Structure
+
+```
 Smart_Document_QA_System/
 │
 ├── app.py                  # Main Flask application
@@ -85,42 +89,50 @@ Smart_Document_QA_System/
 │   ├── legal_news_1.json
 │   └── legal_news_2.json
 └── requirements.txt        # List of dependencies
-Usage
-Open the web application at http://127.0.0.1:5000/ in your browser.
+```
 
-Ask a legal question related to contracts or legal concepts.
+---
 
-The system will provide an answer, along with relevant legal news updates and fact-checking information.
+## Usage
 
-Example Questions
+1. Open the web application at `http://127.0.0.1:5000/` in your browser.
+2. Ask a legal question related to contracts or legal concepts.
+3. The system will provide an answer, along with relevant legal news updates and fact-checking information.
+
+### Example Questions
+
 Here are some sample questions you can ask the bot:
 
-"What is a contract?"
+- "What is a contract?"
+- "What is the meaning of liability?"
+- "What is intellectual property?"
+- "What is negligence in law?"
+- "Explain the term 'force majeure'."
 
-"What is the meaning of liability?"
+---
 
-"What is intellectual property?"
+## Contributing
 
-"What is negligence in law?"
-
-"Explain the term 'force majeure'."
-
-Contributing
 If you would like to contribute to this project, feel free to fork the repository, create a new branch, and submit a pull request.
 
-License
+---
+
+## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
-Flask for web development
+---
 
-LangChain/Crew.ai for AI integration
+## Acknowledgements
 
-NLP Techniques for processing legal texts
+- Flask for web development
+- LangChain/Crew.ai for AI integration
+- NLP Techniques for processing legal texts
 
-Contact
-For any queries, please reach out to [your-email@example.com].
+---
 
-yaml
-Copy
-Edit
+## Contact
+
+For any queries, please reach out to mp9075@srmist.edu.in.
+``` 
+
