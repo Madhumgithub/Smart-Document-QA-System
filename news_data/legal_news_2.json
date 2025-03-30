@@ -1,0 +1,22 @@
+{
+  "title": "New Legislation on Employment Discrimination Passes in Congress",
+  "date": "2025-03-20",
+  "source": "Employment Law Journal",
+  "summary": "The U.S. Congress has passed new legislation aimed at curbing employment discrimination, particularly in the tech and finance sectors. The law introduces stricter requirements for employers to report diversity and inclusion metrics.",
+  "full_text": "The U.S. Congress has recently passed significant new legislation to combat employment discrimination, focusing on gender, race, and disability. The legislation requires companies with more than 100 employees to report diversity metrics annually and demonstrate measurable progress in hiring and promoting minority groups. This law specifically targets industries with historically low diversity, such as technology and finance. Advocates for the law argue that these measures will help address systemic inequalities and provide a more transparent framework for employers to improve diversity. However, critics contend that the law could place an undue burden on companies, particularly small businesses, and may lead to legal challenges based on privacy and compliance concerns. Employers are expected to start reporting these metrics by the end of 2025, and companies failing to comply could face fines and restrictions on government contracts.",
+  "tags": ["Employment Law", "Discrimination", "Diversity", "Legislation"],
+  "related_cases": [
+    {
+      "case_name": "Smith v. Google",
+      "jurisdiction": "New York",
+      "year": "2022",
+      "summary": "A discrimination lawsuit filed by an employee alleging unfair treatment based on gender, which led to a significant settlement agreement."
+    },
+    {
+      "case_name": "Jones v. Bank of America",
+      "jurisdiction": "California",
+      "year": "2021",
+      "summary": "A class action lawsuit involving racial discrimination in hiring practices, resulting in a new internal diversity initiative at the bank."
+    }
+  ]
+}

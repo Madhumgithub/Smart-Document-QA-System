@@ -1,0 +1,22 @@
+{
+  "title": "Supreme Court Ruling on Data Privacy in the Digital Age",
+  "date": "2025-03-25",
+  "source": "Legal News Daily",
+  "summary": "The Supreme Court of the United States issued a landmark ruling on data privacy, affirming that companies must obtain explicit consent from consumers before collecting sensitive personal data. The court emphasized the importance of protecting individuals' privacy in the digital age.",
+  "full_text": "In a groundbreaking decision, the U.S. Supreme Court ruled that companies must obtain explicit and informed consent from consumers before collecting, storing, or sharing sensitive personal data. This ruling stems from a case brought forward by several privacy advocacy groups who challenged tech companies' practices of collecting data without clear consent. The Court stated that individuals have the constitutional right to control how their personal information is used and that companies must clearly disclose their data collection policies. The decision could have far-reaching implications for data privacy laws across the country, forcing many businesses to revise their data collection procedures. This case has set a precedent for the future of data privacy, particularly in the context of new and emerging technologies like artificial intelligence and machine learning, where data is essential for training algorithms.",
+  "tags": ["Privacy", "Supreme Court", "Data Protection", "Legal Precedents"],
+  "related_cases": [
+    {
+      "case_name": "Doe v. Facebook",
+      "jurisdiction": "California",
+      "year": "2023",
+      "summary": "A class action lawsuit against Facebook for collecting personal data without consent, which was settled with a $50 million compensation fund."
+    },
+    {
+      "case_name": "Google v. California Department of Justice",
+      "jurisdiction": "California",
+      "year": "2024",
+      "summary": "A case in which Google was fined for failing to properly disclose its data practices in violation of the California Consumer Privacy Act (CCPA)."
+    }
+  ]
+}
