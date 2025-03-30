@@ -116,12 +116,6 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 ## Acknowledgements
 
 - Flask for web development
