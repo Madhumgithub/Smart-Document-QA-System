@@ -120,3 +120,7 @@ NLP Techniques for processing legal texts
 
 Contact
 For any queries, please reach out to [your-email@example.com].
+
+yaml
+Copy
+Edit
