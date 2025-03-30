@@ -1,4 +1,3 @@
-```
 # Smart Document Q&A System
 
 ## Project Overview
